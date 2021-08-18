@@ -1,0 +1,7 @@
+adal==1.2.2
+aiohttp==3.6.2
+applicationinsights==0.11.9
+argcomplete==1.8.1
+async-timeout==3.0.1
+attrs==19.3.0
+Flask==2.0.1
